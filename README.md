@@ -19,7 +19,7 @@ This project focuses on designing and optimizing an airfoil for a Horizontal Axi
 
 ## 🛠 Tools & Software
 - **XFLR5:** Aerodynamic analysis & airfoil optimization
-- **MATLAB/Python (if applicable):** Data analysis & visualization
+- **Python:** Data analysis & visualization
 - **CFD Tools (ANSYS Fluent - Optional):** For advanced simulations
 
 ## 📊 Key Findings
