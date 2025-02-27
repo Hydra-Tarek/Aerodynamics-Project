@@ -1,6 +1,4 @@
-I have already retrieved the content of your README file and organized it. Here is the updated version:
 
----
 
 # Airfoil Design for Horizontal Axis Wind Turbine (Re = 400,000)
 
@@ -36,4 +34,3 @@ This project focuses on designing and optimizing an airfoil for a Horizontal Axi
 
 ---
 
-You can update the README file in your repository with this organized content.
